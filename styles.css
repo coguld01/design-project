@@ -1,0 +1,269 @@
+.p1 {
+    border: 3px solid black;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(232, 191, 197);
+    position: absolute;
+    right: 1000px;
+    top: 200px;
+    height: 150px;
+    /* this is my paragraph on my homepage and I made it absolute*/
+}
+.p2 {
+    border: 3px solid black;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(232, 191, 197);
+    position: absolute;
+    height: 150px;
+    top: 700px;
+    left: 1000px;
+    
+}
+.p3 {
+    border: 3px solid black;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+    height: 150px;
+    background-color: rgb(232, 191, 197);
+}
+* {
+    background-color: rgb(247, 228, 186);
+}
+h2 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.image1 {
+    height: 300px;
+    width:300x;
+    position: absolute;
+    top: 405px;
+    left: 200px;
+}
+.image2 {
+    position: absolute;
+    top: 405px;
+    left: 650px;
+}
+.image3 {
+    position: absolute;
+    top: 405px;
+    left: 1300px;
+    height: 300px;
+    width: 200px;
+      /* these are my images for my homepage and I made them absolute and floating in the middle of the page.*/
+}
+.form {
+    border: 4px solid black;
+    position: absolute;
+    top: 800px;
+}
+.hiphop {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.greed {
+    border: 3px solid black;
+    font-size: 20px;
+    position: absolute;
+    right: 900px;
+    top: 100px;
+    height: 200px;
+    background-color: rgb(194, 194, 239);
+}
+.success {
+    border: 3px solid black;
+    font-size: 20px;
+    position: absolute;
+    left: 1000px;
+    top: 350px;
+    height: 200px;
+    background-color: rgb(194, 194, 239);
+}
+.failure {
+    border: 3px solid black;
+    font-size: 20px;
+    position: absolute;
+    right: 900px;
+    top: 600px;
+    height: 200px;
+    background-color: rgb(194, 194, 239);
+}
+.hip1 {
+    position: absolute;
+    top: 40px;
+    left: 1200px;
+}
+.hip2 {
+    position: absolute;
+    top: 340px;
+    right: 1100px;
+    width: 450px;
+}
+.hip3 {
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+    width: 500px;
+    /*these are my hiphop images and they are abolsute to the lft and right depending on the image*/
+
+}
+.jazz1 {
+    border: 3px solid black;
+    position: absolute;
+    font-size: 20px;
+    top: 50px;
+    font-size: 20px;
+    background-color:rgb(233, 222, 167);
+}
+.abt {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;  
+}
+.jazz2 {
+    position: absolute;
+    font-size: 20px;
+    top: 500px;
+    border: 3px solid black;
+    font-size: 20px;
+    background-color:rgb(233, 222, 167);
+}
+.jazz3 {
+    border: 3px solid black;
+    position: absolute;
+    top: 950px;
+    font-size: 20px;
+    background-color:rgb(233, 222, 167);
+}
+.jazzimg {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 1100px;
+    left: 600px;
+}
+.jazzimg2 {
+    position: absolute;
+    height: 300px;
+    width: 600px;
+    top: 640px;
+    left: 600px;
+}
+.jazzimg3 {
+    position: absolute;
+    height: 350px;
+    width: 550px;
+    left: 600px;
+    top: 160px;
+    /* these are my jazz images and they are all center but absolute to the top*/
+}
+.aboutme {
+    border: 3px solid black;
+    left: 980px;
+    position: absolute;
+    font-size: 23px;
+    background-color: rgb(240, 194, 239);
+}
+.h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+.aboutmeimg {
+    height: 700px;
+    width: 600px;
+}
+.contemp {
+    border: 3px solid black;
+    position: absolute;
+    top: 100px;
+    font-size: 20px;
+    background-color:rgb(169, 227, 227)
+}
+.contemph1 {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace; 
+}
+.contempimg1 {
+ height: 400px;
+ width: 500px;
+ position: absolute;
+ left: 20px;
+ top: 300px;
+}
+.contempimg2 {
+height: 400px;
+width: 600px;
+position: absolute;
+left: 550px;
+top: 300px;
+}
+.contempimg3 {
+height: 400px;
+width: 500px;
+position: absolute;
+left: 1175px;
+top: 300px;
+}
+.contemp2 {
+    border: 3px solid black;
+    position: absolute;
+    top: 750px;
+    font-size: 20px; 
+    background-color:rgb(169, 227, 227)
+}
+/* these are my contemporary images and they are in a line but abosulte to the side*/
+
+.balleth1 {
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+font-size: 40px;
+}
+.balletimg {
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.balletimg2 {
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    left: 750px;
+    top: 150px;
+}
+.balletimg3 {
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    left: 1450px;
+    top: 150px;
+}
+.pballet {
+    font-size: 20px;
+    border: 3px solid black;
+    position: absolute;
+    top: 700px;
+    background-color:rgb(121, 121, 161)
+}
+.pballet2 {
+    font-size: 20px;
+    border: 3px solid black;
+    position: absolute;
+    top: 900px;
+    background-color:rgb(121, 121, 161)
+
+    }
+ .pballet3 {
+     font-size: 20px;
+     border: 3px solid black;
+     position: absolute;
+     top: 1100px;
+     background-color:rgb(121, 121, 161)
+     }
